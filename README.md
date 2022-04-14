@@ -5,6 +5,10 @@
 - 📫 How to reach me ashishpal438@gmail.com
 
 <!-- ### Feel Free to Contact me..... -->
+<p align="center"> <img
+                src="https://komarev.com/ghpvc/?username=Ashishpal438&label=Profile%20views&color=0e75b6&style=flat"
+                alt="AshishPal438" />
+</p>
 <h3 align="center">Feel Free to Contact me.....</h3>
 <p align="center">
         <a href="https://github.com/Ashishpal438"><img alt="github" width="10%" style="padding:5px"
