@@ -44,7 +44,7 @@
                         alt="postgres-logo"
                         width="40" height="40"/></a>
                         <a href="https://nextjs.org/" target="_blank"> 
-                        <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" 
+                        <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" 
                         alt="nextjs-logo"
                         width="40" height="40"/></a>
                         </p>
