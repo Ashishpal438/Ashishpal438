@@ -62,7 +62,7 @@
                 src="https://github-readme-stats.vercel.app/api?username=Ashishpal438&show_icons=true&theme=dark&hide_border=true&locale=en"
                 alt="Ashishpal438" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishpal438&theme=dark&hide_border=true"
+<p align="center"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png"
                 alt="Ashishpal438" /></p>
 
 - ### 📈 GitHub Activity:
