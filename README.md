@@ -35,9 +35,14 @@
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
                         alt="nodejs" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                        alt="react" width="40" height="40" /> </a> <a href="https://redux.js.org" target="_blank"> <img
+                        alt="react" width="40" height="40" /> </a> 
+                        <a href="https://redux.js.org" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                        alt="redux" width="40" height="40" /> </a> </p>
+                        alt="redux" width="40" height="40" /> </a>
+                        
+                        <a href="https://www.postgresql.org" target="_blank"> <img          src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
+                        alt="postgresql"
+                        </p>
 
 <p align="center"><img
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashishpal438&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
