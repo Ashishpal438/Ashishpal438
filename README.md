@@ -13,7 +13,7 @@
         <a href="https://www.linkedin.com/in/ashish-kumar-pal-2a6954188/"><img alt="linkedin" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
         <a href="https://twitter.com/coderrmann"><img alt="twitter" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
+                        src="https://i.pinimg.com/originals/2d/56/d9/2d56d904b055625cc83afae9db3b7f57.png" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center ">  <a href="https://git-scm.com/" target="_blank"> <img
