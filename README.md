@@ -39,8 +39,9 @@
                         <a href="https://redux.js.org" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
                         alt="redux" width="40" height="40" /> </a>
-                        
-                        <a href="https://www.postgresql.org" target="_blank"> <img          src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
+                        <a href="https://www.postgresql.org" target="_blank"> 
+                        <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" 
+                        alt="postgres-logo"
                         width="40" height="40"/></a>
                         </p>
 
