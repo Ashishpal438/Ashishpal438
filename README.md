@@ -49,7 +49,7 @@
                         alt="nextjs-logo"
                         width="40" height="40"/></a>
                         <a href="https://reactnative.dev/" target="_blank"> 
-                        <img src="https://nix-united.com/wp-content/uploads/2021/03/preview_800_500.jpg" 
+                        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" 
                         alt="react-native-logo"
                         width="40" height="40"/></a>
                         </p>
@@ -62,7 +62,7 @@
                 src="https://github-readme-stats.vercel.app/api?username=Ashishpal438&show_icons=true&theme=dark&hide_border=true&locale=en"
                 alt="Ashishpal438" /></p>
 
-<p align="center"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png"
+<p align="center"><img align="center" src="ttps://github-readme-stats.vercel.app/api?username=Ashishpal438&show_icons=true&theme=dark&hide_border=true&locale=en"
                 alt="Ashishpal438" /></p>
 
 - ### 📈 GitHub Activity:
