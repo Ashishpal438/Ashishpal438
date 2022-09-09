@@ -53,17 +53,18 @@
                         alt="react-native-logo"
                         width="40" height="40"/></a>
                         </p>
-
 <p align="center"><img
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashishpal438&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
                 alt="Ashishpal438" /></p>
-
 <p align="center">&nbsp;<img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=Ashishpal438&show_icons=true&theme=dark&hide_border=true&locale=en"
                 alt="Ashishpal438" /></p>
-
-<p align="center"><img align="center" src="ttps://github-readme-stats.vercel.app/api?username=Ashishpal438&show_icons=true&theme=dark&hide_border=true&locale=en"
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishpal438&theme=dark&hide_border=true"
                 alt="Ashishpal438" /></p>
+- ### 📈 GitHub Activity:
+  <a href="https://github.com/Ashishpal438/github-readme-activity-graph"><img alt="Ashishpal438's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashishpal438&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+
 
 - ### 📈 GitHub Activity:
   <a href="https://github.com/Ashishpal438/github-readme-activity-graph"><img alt="Ashishpal438's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashishpal438&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
