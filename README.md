@@ -43,6 +43,10 @@
                         <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" 
                         alt="postgres-logo"
                         width="40" height="40"/></a>
+                        <a href="https://nextjs.org/" target="_blank"> 
+                        <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" 
+                        alt="nextjs-logo"
+                        width="40" height="40"/></a>
                         </p>
 
 <p align="center"><img
