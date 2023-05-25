@@ -52,6 +52,10 @@
                         <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" 
                         alt="react-native-logo"
                         width="40" height="40"/></a>
+                        <a href="https://typescript.dev/" target="_blank"> 
+                        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/typescript_logo-1024.png" 
+                        alt="typescript-logo"
+                        width="40" height="40"/></a>
                         </p>
 <p align="center"><img
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashishpal438&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
