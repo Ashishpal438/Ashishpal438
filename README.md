@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Ashish kumar Pal
-- 👀 I’m interested in software development
-- 🌱 I’m currently working as Full Stack Engineer
-- 💞️ I’m looking to collaborate on MERN Stack Projects
+# Hi, I'm Ashish 👋
+
+I am a passionate Software Engineer with 2 years of professional experience, I specialize in crafting robust and scalable solutions using React and React Native. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+
+## 🚀 About Me
+
+- 👀 I’m interested in mobile app development
+- 🌱 I’m currently working as Software Engineer 
+- 💞️ I’m looking to collaborate on Mobile and Web projects
 - 📫 How to reach me ashishpal438@gmail.com
 
 <!-- ### Feel Free to Contact me..... -->
