@@ -1,4 +1,6 @@
 # Hi, I'm Ashish 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0tuedon&label=Profile%20views&color=0e75b6&style=flat" alt="0tuedon" /> </p>
+
 
 I am a passionate Software Engineer with 2 years of professional experience, I specialize in crafting robust and scalable solutions using React and React Native. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
