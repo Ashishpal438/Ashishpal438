@@ -2,13 +2,13 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashishpal438&label=Profile%20views&color=0e75b6&style=flat" alt="Ashishpal438" /> </p> -->
 
 
-I am a passionate Software Engineer with 2 years of professional experience, I specialize in crafting robust and scalable solutions using React and React Native. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Software Engineer with 3 years of professional experience, I specialize in crafting robust and scalable solutions using React and React Native. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ## 🚀 About Me
 
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently working as Software Engineer 
-- 💞️ I’m looking to collaborate on Mobile and Web projects
+- 👀 I’m interested in Web3.
+- 🌱 I’m currently working as a Fullstack Engineer. 
+- 💞️ I’m looking to collaborate on Mobile and Web projects.
 - 📫 How to reach me ashishpal438@gmail.com
 
 <!-- ### Feel Free to Contact me..... -->
